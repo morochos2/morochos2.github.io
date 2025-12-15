@@ -2,8 +2,11 @@
 
 ## TODO
 - Clean README
-- Random update
-- another change
+- Make ht_styles.css
+- Make mt_styles.css
+- get rid of dummy-project/styles.css (use ht_styles.css or mt_styles.css)
+- update card
+- get sample blog post data (real or somwhat real would be best
 
 ## Header examples
 
@@ -34,3 +37,4 @@ H2 Setext
 <h6>H6 - HTML</h6>
 
 This file demonstrates common header types for testing rendering.
+
